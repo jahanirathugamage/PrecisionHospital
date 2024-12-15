@@ -1,0 +1,245 @@
+{
+    "product": [
+
+        {
+            "id": 1,
+            "image": "Images/advil-200mg-_1_.webp",
+            "name": "ADVIL IBUPROFEN 200MG",
+            "category": "Analgesics",
+            "price": 4512.00
+        },
+
+        {
+            "id": 2,
+            "image": "Images/aleve.webp",
+            "name": "ALEVE NAPROXEN 220MG",
+            "category": "Analgesics",
+            "price": 12200.00
+        },
+
+        {
+            "id": 3,
+            "image": "Images/bayer 325mg.webp",
+            "name": "BAYER ASPIRIN 325MG",
+            "category": "Analgesics",
+            "price": 11500.00
+        },
+
+        {
+            "id": 4,
+            "image": "Images/Tryptophan 500mg (1).webp",
+            "name": "DEMEDICS TRAMADOL 100MG",
+            "category": "Analgesics",
+            "price": 3156.00
+        },
+
+        {
+            "id": 5,
+            "image": "Images/tylenol 500mg.webp",
+            "name": "TYLENOL PARACETAMOL 500MG",
+            "category": "Analgesics",
+            "price": 234.00
+        },
+
+        {
+            "id": 6,
+            "image": "Images/voltarol 50mg (1).webp",
+            "name": "VOLTAROL DICLOFENAC 50G",
+            "category": "Analgesics",
+            "price": 2500.00
+        },
+
+        {
+            "id": 7,
+            "image": "Images/amoxil 500mg (1).webp", 
+            "name": "AMOXIL AMOXICILLIN 500MG",
+            "category": "Antibiotics",
+            "price": 4997.00
+        },
+
+        {
+            "id": 8,
+            "image": "Images/ciprofloxacin 500mg (1).webp", 
+            "name": "CIPRO CIPROFLOXACIN 500MG",
+            "category": "Antibiotics",
+            "price": 1650.00
+        },
+
+        {
+            "id": 9,
+            "image": "Images/Metronidazole 400mg.webp", 
+            "name": "FLAGYL METRONIDAZOLE 400MG",
+            "category": "Antibiotics",
+            "price": 1516.00
+        },
+
+        {
+            "id": 10,
+            "image": "Images/Azithromycin 250mg (1).webp", 
+            "name": "Z-PAK AZITHROMYCIN 250MG",
+            "category": "Antibiotics",
+            "price": 2400.00
+        },
+        
+        {
+            "id": 11,
+            "image": "Images/Tetracycline 500mg (1).webp", 
+            "name": "SUMYCIN TETRACYCLINE 500MG",
+            "category": "Antibiotics",
+            "price": 2600.00
+        },
+
+        {
+            "id": 12,
+            "image": "Images/Erythromycin 30g (1).webp", 
+            "name": "ERYGEL ERYTHROMYCIN 30G",
+            "category": "Antibiotics",
+            "price": 1020.00
+        },
+
+        {
+            "id": 13,
+            "image": "Images/St. John’s Wort 300mg (1).webp", 
+            "name": "PERIKA ST.JOHN'S WORT 300MG",
+            "category": "Antidepressants",
+            "price": 14891.00
+        },
+    
+        {
+            "id": 14,
+            "image": "Images/SAMe (S-Adenosylmethionine) 30 packets (1).webp", 
+            "name": "NATURE MADE SAM-E 30 PACKETS",
+            "category": "Antidepressants",
+            "price": 40667.00
+        },
+    
+        {
+            "id": 15,
+            "image": "Images/5-HTP (5-Hydroxytryptophan) 50mg.webp", 
+            "name": "NATROL 5-HTP 50MG",
+            "category": "Antidepressants",
+            "price": 6578.00
+        },
+    
+        {
+            "id": 16,
+            "image": "Images/Rhodiola Rosea 500mg (1).webp", 
+            "name": "NATROL 5-HTP 50MG",
+            "category": "Antidepressants",
+            "price": 11899.00
+        },
+    
+        {
+            "id": 17,
+            "image": "Images/Omega-3 Fatty Acids 2840mg (1).webp", 
+            "name": "NORDIC NATURALS OMEGA 3 FATTY ACIDS 2840MG",
+            "category": "Antidepressants",
+            "price": 61808.00
+        },
+    
+        {
+            "id": 18,
+            "image": "Images/Tryptophan 500mg (1).webp", 
+            "name": "NOW SUPPLEMENTS TRYPTOPHAN 500MG",
+            "category": "Antidepressants",
+            "price": 15816.00
+        },
+
+        {
+            "id": 19,
+            "image": "Images/Loratadine 10mg (1).webp", 
+            "name": "CLARITIN LORATADINE 10MG",
+            "category": "Antihistamines",
+            "price": 650.00
+        },
+    
+        {
+            "id": 20,
+            "image": "Images/Diphenhydramine 25mg.webp", 
+            "name": "BENADRYL DIPHENHYDRAMINE 25MG",
+            "category": "Antihistamines",
+            "price": 20799.00
+        },
+    
+        {
+            "id": 21,
+            "image": "Images/Cetirizine 10mg.webp", 
+            "name": "ZYRTEC CETRIIZINE 10MG",
+            "category": "Antihistamines",
+            "price": 550.00
+        },
+    
+        {
+            "id": 22,
+            "image": "Images/Fexofenadine 120mg (1).webp", 
+            "name": "ALLEGRA FEXOFENADINE 120MG",
+            "category": "Antihistamines",
+            "price": 435.00
+        },
+    
+        {
+            "id": 23,
+            "image": "Images/Chlorpheniramine 4mg.webp", 
+            "name": "CHLOR-TRIMETON CHLORPHENIRAMINE 4MG",
+            "category": "Antihistamines",
+            "price": 13513.00
+        },
+    
+        {
+            "id": 24,
+            "image": "Images/Clemastine (1).webp", 
+            "name": "TAVIST CLEMASTINE 16 TABLETS",
+            "category": "Antihistamines",
+            "price": 21919.00
+        },
+
+        {
+            "id": 25,
+            "image": "Images/Amlodipine 5mg (1).webp", 
+            "name": "NORVASC AMLODIPINE 5MG",
+            "category": "Antihypertensives",
+            "price": 912.00
+        },
+    
+        {
+            "id": 26,
+            "image": "Images/Lisinopril 10mg (1).webp", 
+            "name": "PRINIVIL LISINOPRIL 10MG",
+            "category": "Antihypertensives",
+            "price": 23000.00
+        },
+    
+        {
+            "id": 27,
+            "image": "Images/Losartan 50mg (1).webp", 
+            "name": "COZAAR LOSARTAN 50MG",
+            "category": "Antihypertensives",
+            "price": 780.00
+        },
+    
+        {
+            "id": 28,
+            "image": "Images/Hydrochlorothiazide (HCTZ) 25mg (1).webp", 
+            "name": "MICOZIDE HCTZ 25MG",
+            "category": "Antihypertensives",
+            "price": 600.00
+        },
+    
+        {
+            "id": 29,
+            "image": "Images/Metronidazole 400mg.webp", 
+            "name": "LOPRESSOR METRONIDAZOLE 400MG",
+            "category": "Antihypertensives",
+            "price": 2229.00
+        },
+    
+        {
+            "id": 30,
+            "image": "Images/Clonidine 0.2mg (1).webp", 
+            "name": "CATAPRES CLONIDINE 0.2MG",
+            "category": "Antihypertensives",
+            "price": 7250.00
+        }
+    ]
+}
+  
